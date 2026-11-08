@@ -380,6 +380,4 @@ The Silent Zone engine integrates directly into the unified 70-page full-stack s
   </tr>
 </table>
 
-See [CONTRIBUTORS.md](CONTRIBUTORS.md) for full contributor details, profiles, and contribution guidelines.
-
-
+See [CONTRIBUTORS.md](CONTRIBUTORS.md) for full contributor details, profiles, and contribution guidelines
